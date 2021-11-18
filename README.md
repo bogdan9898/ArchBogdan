@@ -1,4 +1,4 @@
-# ArchTitus Installer Script
+# ArchBogdan Installer Script - WIP
 
 <img src="https://i.imgur.com/YiNMnan.png" />
 
